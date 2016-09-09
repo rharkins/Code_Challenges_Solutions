@@ -22,3 +22,15 @@
 [submodule "Automation_Code_Challenge_8_Java"]
 	path = Automation_Code_Challenge_8_Java
 	url = https://github.com/rharkins/Automation_Code_Challenge_8_Java
+[submodule "Automation_Code_Challenge_1_CSharp"]
+	path = Automation_Code_Challenge_1_CSharp
+	url = https://github.com/rharkins/Automation_Code_Challenge_1_CSharp
+[submodule "Automation_Code_Challenge_2_CSharp"]
+	path = Automation_Code_Challenge_2_CSharp
+	url = https://github.com/rharkins/Automation_Code_Challenge_2_CSharp
+[submodule "Automation_Code_Challenge_3_CSharp"]
+	path = Automation_Code_Challenge_3_CSharp
+	url = https://github.com/rharkins/Automation_Code_Challenge_3_CSharp
+[submodule "Automation_Code_Challenge_4_CSharp"]
+	path = Automation_Code_Challenge_4_CSharp
+	url = https://github.com/rharkins/Automation_Code_Challenge_4_CSharp
